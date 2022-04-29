@@ -25,6 +25,12 @@ FrontendMasters, which is a online educational platform providing courses on fro
      <li>All Popular Courses</li>
      <li>Payment page</li>
   </ol>
+  <h1>Area of Responsibilty<h/>
+    <ul>
+      <li>●	Developed the Home and Social Networking pages</li>
+      <li>●	Integrated Stripe as a payment gateway</li>
+      <li>●	Developed  courses and All Popular Courses page</li>
+    </ul>
   <h1>Snapshots of our project</h1>
   <p>HomePage</p>
    <img src="https://miro.medium.com/max/1400/1*aHCxBodwmwxq0YkQECGh3w.jpeg"/>
@@ -38,3 +44,5 @@ FrontendMasters, which is a online educational platform providing courses on fro
   <img src="https://miro.medium.com/max/1400/1*WRFX0Shu2D4zuZ7y0-nhZA.jpeg"/>
   <p>Payment Page</p>
   <img src="https://miro.medium.com/max/1112/1*UydHeyy9WGuh7CdBUSaz9w.jpeg"/>
+  
+  
