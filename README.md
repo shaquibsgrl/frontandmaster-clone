@@ -1,7 +1,7 @@
 # frontandmaster-clone
 Masai School construct week group project.
 <h1>Frontend Master-Clone</h1>
-FrontendMasters, which is a online educational platform providing courses on frontend technologies ,coding languages and many more in the similar field. As per reviews from users across the globe, their content is apt for students to learn.
+Frontend Masters, which is a online educational platform providing courses on frontend technologies ,coding languages and many more in the similar field. As per reviews from users across the globe, their content is apt for students to learn.
 <h1>collaborators:</h1>
 <ul> 
   <li><a href="https://github.com/baluramk6">Ballu Ram Kumawat</a> </li>
